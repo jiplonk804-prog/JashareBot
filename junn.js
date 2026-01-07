@@ -195,7 +195,7 @@ function protectCommand(fn) {
 }
 
 // === Developer Utils ===
-const DEVELOPER_IDS = [7756491096];
+const DEVELOPER_IDS = [8091720389];
 function isDeveloper(id) {
   return DEVELOPER_IDS.includes(id);
 }
@@ -273,7 +273,7 @@ bot.start(async (ctx) => {
     const groupCaption = wrapPre(
 `══════════════════════════════════
       ╓──────≪≪◈≫≫──────╖
-         🤖 BOT JASHER JUN
+         🤖 BOT KAZUKIBLAST 
       ╙──────≪≪◈≫≫──────╜
            
 Gunakan bot di PRIVATE CHAT untuk fitur penuh.\nKlik tombol di bawah untuk memulai.
