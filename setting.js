@@ -10,7 +10,7 @@
 ⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞⏤͟͟͞͞
 */
 module.exports = {
-  TOKEN: '8270678869:AAH1i0rk9wBpgE9IP2iAXf3v1aZ9sAkqsCc,
+  TOKEN: '8270678869:AAH1i0rk9wBpgE9IP2iAXf3v1aZ9sAkqsCc',
   OWNER_ID: 8091720389, // owner 
   GROUP : -1003058450217, // gc 
   CHANEL : -1003486863300, // chanel lu yaa
